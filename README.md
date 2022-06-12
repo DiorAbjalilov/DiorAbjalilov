@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diorabjalilov&show_icons=true&locale=en&layout=compact" alt="diorabjalilov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diorabjalilov&show_icons=true&locale=en" alt="diorabjalilov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diorabjalilov&" alt="diorabjalilov" /></p>
