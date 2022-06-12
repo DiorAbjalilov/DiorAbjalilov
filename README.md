@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abjalilovdiyor@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE6dfpNWrc/0lGw8DiXlWPx8pHB0xkmug/edit?utm_content=DAE6dfpNWrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE6dfpNWrc/0lGw8DiXlWPx8pHB0xkmug/edit?utm_content=DAE6dfpNWrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [<a herf="https://www.canva.com/design/DAE6dfpNWrc/0lGw8DiXlWPx8pHB0xkmug/edit?utm_content=DAE6dfpNWrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">My resume</a>](<a herf="https://www.canva.com/design/DAE6dfpNWrc/0lGw8DiXlWPx8pHB0xkmug/edit?utm_content=DAE6dfpNWrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">My resume</a>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
