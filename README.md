@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abjalilov Diyor</h1>
+<h3 align="center">A full-stack developer </h3> 
 
 <!--
 **DiorAbjalilov/DiorAbjalilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
