@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiorAbjalilov](https://github.com/DiorAbjalilov)
 
-- 💬 Ask me about **JavaScript, Node JS,React JS, Next JS, Redux**
+- 💬 Ask me about **JavaScript, Node JS,React JS, Next JS,React Native, Redux**
 
 - 📫 How to reach me **abjalilovdiyor@gmail.com**
 
