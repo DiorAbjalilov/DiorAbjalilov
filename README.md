@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abjalilov Diyor</h1>
-<h3 align="center">A passionate Frontend and Backend developer from Uzbekistan</h3>
+<h3 align="center">A passionate React Native and Full Stack developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diorabjalilov&label=Profile%20views&color=0e75b6&style=flat" alt="diorabjalilov" /> </p>
 
